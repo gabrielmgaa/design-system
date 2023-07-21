@@ -1,0 +1,32 @@
+{
+  "name": "@call-sckedule/docs",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "storybook dev -p 6006",
+    "build": "storybook build",
+    "deploy-storybook": "storybook-to-ghpages"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@storybook/manager-api": "^7.0.23",
+    "@storybook/storybook-deployer": "^2.8.16",
+    "@storybook/theming": "^7.0.23",
+    "@vitejs/plugin-react": "^4.0.1",
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "@call-sckedule/eslint-config": "*",
+    "@call-sckedule/react": "*",
+    "@call-sckedule/tokens": "*",
+    "@storybook/addon-a11y": "^7.0.27",
+    "phosphor-react": "^1.4.1",
+    "polished": "^4.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

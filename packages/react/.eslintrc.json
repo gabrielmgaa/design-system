@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "@call-sckedule/eslint-config",
+    "plugin:storybook/recommended"
+  ]
+}

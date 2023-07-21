@@ -1,0 +1,6 @@
+{
+  "extends": "@call-sckedule/ts-config/base.json",
+  "include": [
+    "src"
+  ]
+}

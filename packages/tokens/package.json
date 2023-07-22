@@ -1,6 +1,6 @@
 {
   "name": "@call-sckedule/tokens",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@call-sckedule/ts-config": "*", 
-    "@call-sckedule/eslint-config": "*", 
+    "@call-sckedule/ts-config": "*",
+    "@call-sckedule/eslint-config": "*",
     "tsup": "^7.0.0",
     "typescript": "^5.1.3"
   }

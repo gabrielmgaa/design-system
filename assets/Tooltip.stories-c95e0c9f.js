@@ -1,0 +1,2 @@
+import{d as a}from"./index-cbfe821b.js";import"./index-439caa47.js";import"./_commonjsHelpers-042e6b4d.js";import"./extends-98964cd2.js";import"./jsx-runtime-6550a675.js";const d={title:"Form/Tooltip",component:a,args:{},tags:["autodocs"]},o={};var r,t,s;o.parameters={...o.parameters,docs:{...(r=o.parameters)==null?void 0:r.docs,source:{originalSource:"{}",...(s=(t=o.parameters)==null?void 0:t.docs)==null?void 0:s.source}}};const n=["Primary"];export{o as Primary,n as __namedExportsOrder,d as default};
+//# sourceMappingURL=Tooltip.stories-c95e0c9f.js.map
